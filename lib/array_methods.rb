@@ -12,13 +12,13 @@ def using_reverse("wow", "I", "am", "really", "learning", "arrays!")
 end
 
 def using_first("wow", "I", "am", "really", "learning", "arrays!")
-
+  using_first.first
 end
 
-def using_last(array)
-
+def using_last("wow", "I", "am", "really", "learning", "arrays!")
+  using_last.last
 end
 
-def using_size(array)
-
+def using_size("wow", "I", "am", "really", "learning", "arrays!")
+  using_size.size
 end
