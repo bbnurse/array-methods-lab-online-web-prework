@@ -3,15 +3,15 @@ def using_include("wow", "I", "am", "really", "learning", "arrays!")
 end
 
 def using_sort("wow", "I", "am", "really", "learning", "arrays!")
-  using_include.sort 
+  using_include.sort
 
 end
 
-def using_reverse(array)
+def using_reverse("wow", "I", "am", "really", "learning", "arrays!")
 
 end
 
-def using_first(array)
+def using_first("wow", "I", "am", "really", "learning", "arrays!")
 
 end
 
